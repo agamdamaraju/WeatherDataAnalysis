@@ -19,7 +19,7 @@ As a data science consultant(roleplay), we need to explore and analyze the 2017 
 MATLAB R2020b
 
 # Scripts & Dataset
-Necessary Matlab [scripts](https://github.com/AgamDamaraju/WeatherDataAnalysis) and [dataset](https://github.com/AgamDamaraju/WeatherDataAnalysis) are attached.
+Necessary Matlab [scripts](https://github.com/AgamDamaraju/WeatherDataAnalysis) are attached.
 
 # Credits
 - [Mathworks](https://in.mathworks.com)
